@@ -6,7 +6,7 @@ Peter
 ## Installation
 
 1. Git
-2. 
+2. HTML
 
 ## Usage
 
